@@ -1,6 +1,7 @@
 # DVRPC-geodata
 
 A collection of geospatial data sets from the Delaware Valley Regional Planning Commision (DVRPC).
+More Regional data sets can be found here: http://www.dvrpc.org/Mapping/data.htm.
 
 ## Data Source
 
