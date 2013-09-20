@@ -4,6 +4,8 @@ A collection of geospatial data sets from the Delaware Valley Regional Planning 
 
 Additional regional data sets can be found here: http://www.dvrpc.org/Mapping/data.htm.
 
+*There are plenty of tools that can help convert shapefiles to other file formats. A few worth bookmarking: Org2org - http://ogre.adc4gis.com/  and Shape Escape - http://shpescape.com/.
+
 ## Data Source
 
 Delaware Valley Regional Planning Commision (DVRPC) - http://www.dvrpc.org.
@@ -17,4 +19,3 @@ DVRPC and partner state, local, and other agencies shall assume no liability for
 * GeoJSON in [WGS84](http://spatialreference.org/ref/epsg/4326/).
 * Shapefiles are in [WGS84](http://spatialreference.org/ref/epsg/4326/).
 
-*There are plenty of tools that can help convert shapefiles to other file formats. A few worth bookmarking: Org2org - http://ogre.adc4gis.com/  and Shape Escape - http://shpescape.com/.
