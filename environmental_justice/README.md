@@ -1,50 +1,20 @@
-# Streets Centerline
+# DVRPC Environmental Justice (2010)
 
-### Summary
-Used citywide as base layer for many purposes/applications. The street centerline is available for reference purposes only and does not represent exact engineering specifications. The Philadelphia Streets Department makes no guarantees as to the accuracy of the layer. Features Updated: 11/29/2012 Attributes Updated: 11/29/2012 Metadata Updated: 01/14/2013 Update Frequency: every two months
 
 ### Description
-The street centerline represents streets and walkways dedicated to the city, some private streets and walkways, and additional segments not meeting either classification. All street segments lie generally within the boundaries of the City of Philadelphia. Each street segment has a unique identifier attribute.
+2010 Tract-level census data compiled for Environmental Justice reports. In 2001, DVRPC published "...and Justice for All" - DVRPC's Strategy for Fair Treatment and Meaningful Involvement of All People (Publication No. 01022) to identify impacts of disparate funding and services on defined low-income and minority groups. A methodology was created, refined in subsequent years, to identify populations that may be adversely affected by transportation planning decisions. Environmental Justice: Population Groups (2006-2010 American Community Survey 5-Year Estimates) Data Set: 2006- 2010 American Community Survey 5-Year Estimates Carless Households: http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_5YR_B25044 Table: B25044 - TENURE BY VEHICLES AVAILABLE Universe: Occupied housing units Owner Occupied: No vehicle available (line 3) Renter Occupied: No vehicle available (line 10) Elderly over 75 year http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_5YR_B01001 Table: B01001 - SEX BY AGE Universe: Total population Male: 75 to 79 years (line 23), 80 to 84 years (line 24), 85 years and over (line 25) Female: 75 to 79 years (line 47), 80 to 84 years (line 48), 85 years and over (line 49) Limited English Proficiency http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_5YR_B16004 Table: B16004 - AGE BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER Universe: Population 5 years and over Speak English "not well" (lines: 7, 12, 17, 22, 29, 34, 39, 44, 51, 56, 61, 66 ) Speak English "not at all" (lines: 8, 13, 18, 23, 30, 35, 40, 45, 52, 57, 62, 67) Hispanic http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_5YR_B03003 Table: B03003 - HISPANIC OR LATINO ORIGIN Universe: Total population Hispanic or Latino (line 3) Households in Poverty http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_5YR_B17017 Table: B17017 - POVERTY STATUS IN THE PAST 12 MONTHS BY HOUSEHOLD TYPE BY AGE OF HOUSEHOLDER Universe: Households Income in the past 12 months below poverty level (line 2) Non-Hispanic Minority http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_5YR_B03002 Table: B03002 - HISPANIC OR LATINO ORIGIN BY RACE Universe: Total population Black or African American alone (line 4) American Indian and Alaska Native alone (line 5) Asian alone (line 6) Native Hawaiian and Other Pacific Islander alone (line 7) Some other race alone (line 8) Two or more races: (line 9) Female Head of Household with Child http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_5YR_B11005 Table: B11005 - HOUSEHOLDS BY PRESENCE OF PEOPLE UNDER 18 YEARS BY HOUSEHOLD TYPE Universe: Households Female householder, no husband present (line 7) Female householder (line 10) For more information and for methodology, visit DVRPC's website: http://www.dvrpc.org/GetInvolved/TitleVI/
 
 ### Data Development
-The centerline is updated when city plan makes a change in there records. Also if the traffic engineering group can make or see a change that the centerline would need upating from.
+To be used for planning purposes
 
 ### Key Attribute Fields
-`PRE_DIR` Directional prefix of complete street name 
+Coming Soon but feel free to visit both links below from more info on EJ:
+Shapefiles do have Full Metatdata filled out!
 
-`ST_NAME` Street name 
+http://www.dvrpc.org/webmaps/EJ2010/
 
-`ST_TYPE` Street type designation 
+http://www.dvrpc.org/GetInvolved/TitleVI/ejmaps.htm
 
-`SUF_DIR` Directional suffix of complete street name 
-
-`ZIP_LEFT` Zip code on left side of arc 
-
-`ZIP_RIGHT` Zip code on right side of arc 
-
-`L_F_ADD` "From" address attribute on left side of arc 
-
-`L_T_ADD` "To" address attribute on left side of arc 
-
-`R_F_ADD` "From" address attribute on right side of arc 
-
-`R_T_ADD` "To" address attribute on right side of arc 
-
-`ST_CODE` street code 
-
-`L_HUNDRED` address hundred block on left side of arc 
-
-`R_HUNDRED` address hundred block on right side of arc 
-
-`SEG_ID` unique identifier of arc 
-
-`ONEWAY` Denotes travel direction of arc in conjunction with arc direction 
-
-`STNAME` Concatenated field consisting of Pre_dir, St_name, St_type, Suf_dir items 
-
-`CLASS` Street class of arc; 1-Expressways; 2-Major Arterial; 3-Minor Arterial; 4-Collector; 5-Local 
-
-`RESPONSIBL` Responsibility of street arc
 
 ### Credits
 DVRPC

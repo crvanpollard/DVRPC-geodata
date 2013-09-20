@@ -1,50 +1,39 @@
-# Streets Centerline
+# Pedestrian Counts
 
 ### Summary
-Used citywide as base layer for many purposes/applications. The street centerline is available for reference purposes only and does not represent exact engineering specifications. The Philadelphia Streets Department makes no guarantees as to the accuracy of the layer. Features Updated: 11/29/2012 Attributes Updated: 11/29/2012 Metadata Updated: 01/14/2013 Update Frequency: every two months
+Pedestrian Count information collected and maintained by DVRPC 
 
-### Description
-The street centerline represents streets and walkways dedicated to the city, some private streets and walkways, and additional segments not meeting either classification. All street segments lie generally within the boundaries of the City of Philadelphia. Each street segment has a unique identifier attribute.
-
-### Data Development
-The centerline is updated when city plan makes a change in there records. Also if the traffic engineering group can make or see a change that the centerline would need upating from.
+For more information please visit: http://www.dvrpc.org/Traffic/.
 
 ### Key Attribute Fields
-`PRE_DIR` Directional prefix of complete street name 
+`ADP` Annual Daily Pedestrian : represents an estimate of all pedestrian traffic during a 24 hour period at the location indicated for the year in which it was collected. 
 
-`ST_NAME` Street name 
+`RECORDNUM` Record Number : unique record ID for each count
 
-`ST_TYPE` Street type designation 
+`SETDATE` SET Date : Date that the count was set
 
-`SUF_DIR` Directional suffix of complete street name 
+`SETYEAR` Set Year : Year that the count was taken
 
-`ZIP_LEFT` Zip code on left side of arc 
+`PEDFAT` Bicycle Season Factor
 
-`ZIP_RIGHT` Zip code on right side of arc 
+`REPORT` URL for detailed hourly report
 
-`L_F_ADD` "From" address attribute on left side of arc 
+`FC` Functional Class : roadway functional classification 
 
-`L_T_ADD` "To" address attribute on left side of arc 
+`MCD` Municipality ten digit GEOID 
 
-`R_F_ADD` "From" address attribute on right side of arc 
+`ROAD` Road name for where the count was taken
 
-`R_T_ADD` "To" address attribute on right side of arc 
+`CNTDIR` Count Direction
 
-`ST_CODE` street code 
+`TRAFDIR` Traffic Direction
 
-`L_HUNDRED` address hundred block on left side of arc 
+`FROMLMT` From Limit 
 
-`R_HUNDRED` address hundred block on right side of arc 
+`TOLMT` To Limit
 
-`SEG_ID` unique identifier of arc 
+`TYPE` Type of DVRPC count taken
 
-`ONEWAY` Denotes travel direction of arc in conjunction with arc direction 
-
-`STNAME` Concatenated field consisting of Pre_dir, St_name, St_type, Suf_dir items 
-
-`CLASS` Street class of arc; 1-Expressways; 2-Major Arterial; 3-Minor Arterial; 4-Collector; 5-Local 
-
-`RESPONSIBL` Responsibility of street arc
 
 ### Credits
 DVRPC

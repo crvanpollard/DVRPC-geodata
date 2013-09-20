@@ -1,53 +1,70 @@
-# Streets Centerline
+# DVRPC Transit Score by TAZ (2010)
 
 ### Summary
-Used citywide as base layer for many purposes/applications. The street centerline is available for reference purposes only and does not represent exact engineering specifications. The Philadelphia Streets Department makes no guarantees as to the accuracy of the layer. Features Updated: 11/29/2012 Attributes Updated: 11/29/2012 Metadata Updated: 01/14/2013 Update Frequency: every two months
+To be used for planning purposes.
 
 ### Description
-The street centerline represents streets and walkways dedicated to the city, some private streets and walkways, and additional segments not meeting either classification. All street segments lie generally within the boundaries of the City of Philadelphia. Each street segment has a unique identifier attribute.
+This two-phase project defines a method to assess the appropriateness of various
+
+modes and intensities of transit service throughout the DVRPC region. Phase I consisted
+
+of a statistical evaluation and refinement of New Jersey Transit’s existing transit score
+
+method. This included a regression analysis to test the relationships between existing
+
+variables, additional variables, and transit mode share for the region, the State of New
+
+Jersey, and the combined area of the two. Based on the results of this evaluation, a
+
+refined transit score equation was derived for congruent use in both New Jersey and
+
+Pennsylvania. This DVRPC Transit Score Tool is as follows (all densities gross):
+
+Transit score = [0.41*(Population per acre)] +
+
+[0.09*(Jobs per acre)] +
+
+[0.74*(Zero car households per acre)]
+
+The DVRPC Transit Score Tool was then classified into five score category ranges (from
+
+‘low’ to ‘high’):
+
+Low: < 0.6
+
+Marginal: 0.6 – 1.0
+
+Medium: 1.01 – 2.5
+
+Medium-High: 2.51 – 7.5
+
+High: > 7.5
+
+
+The TAZ boundaries used in this file are the TAZ boundaries submitted to the Census Bureau in 2012. At the time of this release, the official TIGER TAZ boundaries have not been released by the Census Bureau.
+
+
+2010 Population source: US Census Bureau's 2010 Census
+
+2010 Employment source*: NETS, 2010, adjusted by DVRPC
+
+2010 Zero Car Household source: Modeling Department 2010-2040 estimates by TAZ
+
+
+Acreage for TAZ's is total LAND area.
+
+
+*Note: Employment data for the Berks County TAZ's is an estimate based on DVRPC projections. Employment data for the remaining TAZ's comes from NETS data for 2010, which were then adjusted at the Board's approval.
+
 
 ### Data Development
 The centerline is updated when city plan makes a change in there records. Also if the traffic engineering group can make or see a change that the centerline would need upating from.
 
 ### Key Attribute Fields
-`PRE_DIR` Directional prefix of complete street name 
-
-`ST_NAME` Street name 
-
-`ST_TYPE` Street type designation 
-
-`SUF_DIR` Directional suffix of complete street name 
-
-`ZIP_LEFT` Zip code on left side of arc 
-
-`ZIP_RIGHT` Zip code on right side of arc 
-
-`L_F_ADD` "From" address attribute on left side of arc 
-
-`L_T_ADD` "To" address attribute on left side of arc 
-
-`R_F_ADD` "From" address attribute on right side of arc 
-
-`R_T_ADD` "To" address attribute on right side of arc 
-
-`ST_CODE` street code 
-
-`L_HUNDRED` address hundred block on left side of arc 
-
-`R_HUNDRED` address hundred block on right side of arc 
-
-`SEG_ID` unique identifier of arc 
-
-`ONEWAY` Denotes travel direction of arc in conjunction with arc direction 
-
-`STNAME` Concatenated field consisting of Pre_dir, St_name, St_type, Suf_dir items 
-
-`CLASS` Street class of arc; 1-Expressways; 2-Major Arterial; 3-Minor Arterial; 4-Collector; 5-Local 
-
-`RESPONSIBL` Responsibility of street arc
+Coming soon by shapefiles have Full Metatdata filled out
 
 ### Credits
-DVRPC
+DVRPC, U.S. Census Bureau
 
 ### Use Limitations
 The Delaware Valley Regional Planning Commission (DVRPC) makes no warranty, representation, or guarantee as to the content, sequence, accuracy, timeliness, or completeness of any of the spatial data or database information provided herein. DVRPC and partner state, local, and other agencies shall assume no liability for errors, omissions, or inaccuracies in the information provided regardless of how caused; or any decision made or action taken or not taken by any person relying on any information or data furnished within. 

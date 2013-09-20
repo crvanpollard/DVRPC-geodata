@@ -22,7 +22,7 @@ For more information please visit: http://www.dvrpc.org/Traffic/.
 
 `MCD` Municipality ten digit GEOID 
 
-`ROAD` Road: road name for where the count was taken
+`ROAD` Road name for where the count was taken
 
 `CNTDIR` Count Direction
 
