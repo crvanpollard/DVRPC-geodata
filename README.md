@@ -2,7 +2,7 @@
 
 A collection of geospatial data sets from the Delaware Valley Regional Planning Commision (DVRPC).
 
-Additional regional data sets can be found here: http://www.dvrpc.org/Mapping/data.htm.
+Additional regional data sets in shapefile format can be found here: http://www.dvrpc.org/Mapping/data.htm.
 
 *There are plenty of tools that can help convert shapefiles to other file formats. A few worth bookmarking: Org2org - http://ogre.adc4gis.com/  and Shape Escape - http://shpescape.com/.
 
