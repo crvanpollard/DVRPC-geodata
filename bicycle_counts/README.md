@@ -1,10 +1,8 @@
-# Bicycle Count
+# Bicycle Counts
 
 ### Summary
-Used citywide as base layer for many purposes/applications. The street centerline is available for reference purposes only and does not represent exact engineering specifications. The Philadelphia Streets Department makes no guarantees as to the accuracy of the layer. Features Updated: 11/29/2012 Attributes Updated: 11/29/2012 Metadata Updated: 01/14/2013 Update Frequency: every two months
-
-### Data Development
-The centerline is updated when city plan makes a change in there records. Also if the traffic engineering group can make or see a change that the centerline would need upating from.
+Bicycle Count information collected and maintained by DVRPC 
+For more information please visit: http://www.dvrpc.org/Traffic/.
 
 ### Key Attribute Fields
 `ADB` Annual Daily Bicycle : represents an estimate of all bicycle traffic during a 24 hour period at the location indicated for the year in which it was collected. 
