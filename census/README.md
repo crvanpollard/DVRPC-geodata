@@ -1,9 +1,9 @@
-# Commutter Travel Data
+# Commutter Travel Data (MCD and Tract Level)
 
 ### Description
 Selected data from the Census Bureau's 2007-2011 ACS dataset for census tracts in the DVRPC Region. American Community Survey (ACS) provides detailed demographic, social, economic, commuting and housing statistics based on continuous survey data collection. Summary tables compiled with 5-year data are available for all places and have approximately 20,000 variables from 900 tabulations. The published Census statistics have been recompiled by DVRPC, with new field names.
-### Data Development
-The centerline is updated when city plan makes a change in there records. Also if the traffic engineering group can make or see a change that the centerline would need upating from.
+
+
 
 ### Key Attribute Fields
 Coming soon by shapefiles have Full Metatdata filled out
