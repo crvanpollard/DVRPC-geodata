@@ -14,15 +14,15 @@ To be used for planning purposes
 
 `RECORDNUM` Record Number : unique record ID for each count
 
-`SETDATE` SET Date : Date that the count was set
+`SETDATE` Date that the count was set
 
-`SETYEAR` Set Year : Year that the count was taken
+`SETYEAR` Year that the count was taken
 
-`PEDFAT` Bicycle Season Factor
+`PEDFAT` Pedestrian Seasonal Factor
 
 `REPORT` URL for detailed hourly report
 
-`FC` Functional Class : roadway functional classification 
+`FC` Functional Class : PENNDot roadway classification 
 
 `MCD` Municipality ten digit GEOID 
 
