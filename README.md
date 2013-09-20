@@ -16,3 +16,4 @@ DVRPC and partner state, local, and other agencies shall assume no liability for
 ## Notes
 * GeoJSON in [WGS84](http://spatialreference.org/ref/epsg/4326/).
 * Shapefiles are in [WGS84](http://spatialreference.org/ref/epsg/4326/).
+*There are plenty of tools that can help convert shapefiles to other file formats. A few worth bookmarking: Org2org - http://ogre.adc4gis.com/  and Shape Escape - http://shpescape.com/.
