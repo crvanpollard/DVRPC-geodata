@@ -6,7 +6,7 @@ Selected data from the Census Bureau's 2007-2011 ACS dataset for census tracts i
 
 
 ### Key Attribute Fields
-Coming soon by shapefiles have Full Metatdata filled out
+Coming soon but shapefiles have Full Metatdata
 
 ### Credits
 DVRPC, U.S. Census Bureau
