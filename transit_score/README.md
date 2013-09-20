@@ -3,12 +3,14 @@
 ### Summary
 To be used for planning purposes.
 
+http://www.dvrpc.org/asp/pubs/publicationabstract.asp?pub_id=07005
+
 ### Description
 This two-phase project defines a method to assess the appropriateness of various
 
 modes and intensities of transit service throughout the DVRPC region. Phase I consisted
 
-of a statistical evaluation and refinement of New Jersey Transit’s existing transit score
+of a statistical evaluation and refinement of New Jersey Transitï¿½s existing transit score
 
 method. This included a regression analysis to test the relationships between existing
 
@@ -28,15 +30,15 @@ Transit score = [0.41*(Population per acre)] +
 
 The DVRPC Transit Score Tool was then classified into five score category ranges (from
 
-‘low’ to ‘high’):
+ï¿½lowï¿½ to ï¿½highï¿½):
 
 Low: < 0.6
 
-Marginal: 0.6 – 1.0
+Marginal: 0.6 ï¿½ 1.0
 
-Medium: 1.01 – 2.5
+Medium: 1.01 ï¿½ 2.5
 
-Medium-High: 2.51 – 7.5
+Medium-High: 2.51 ï¿½ 7.5
 
 High: > 7.5
 
@@ -55,10 +57,6 @@ Acreage for TAZ's is total LAND area.
 
 
 *Note: Employment data for the Berks County TAZ's is an estimate based on DVRPC projections. Employment data for the remaining TAZ's comes from NETS data for 2010, which were then adjusted at the Board's approval.
-
-
-### Data Development
-The centerline is updated when city plan makes a change in there records. Also if the traffic engineering group can make or see a change that the centerline would need upating from.
 
 ### Key Attribute Fields
 Coming soon by shapefiles have Full Metatdata filled out
