@@ -22,8 +22,6 @@ To be used for planning purposes
 
 `REPORT` URL for detailed hourly report
 
-`FC` Functional Class : PENNDot roadway classification 
-
 `MCD` Municipality ten digit GEOID 
 
 `ROAD` Road name for where the count was taken
@@ -37,6 +35,34 @@ To be used for planning purposes
 `TOLMT` To Limit
 
 `TYPE` Type of DVRPC count taken
+
+`FC` Functional Class : roadway functional classification 
+
+01 RURAL PRINCIPLE ARTERIAL INTERSTATE
+
+02 RURAL PRINCIPLE ARTERIAL OTHER
+
+06 RURAL MINOR ARTERIAL
+
+07 RURAL MAJOR COLLECTOR
+
+08 RURAL MINOR COLLECTOR
+
+09 RURAL LOCAL
+
+11 URBAN PRINCIPLE ARTERIAL INTERSTATE
+
+12 URBAN PRINCIPLE ARTERIAL OTHER FREEWAYS
+
+14 URBAN OTHER PRINCIPLE ARTERIAL
+
+16 URBAN MINOR ARTERIAL
+
+17 URBAN COLLECTOR
+
+19 URBAN LOCAL
+
+99 RAMP
 
 
 ### Credits
