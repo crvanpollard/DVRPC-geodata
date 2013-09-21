@@ -1,7 +1,7 @@
 # DVRPC Environmental Justice (2010)
 
 ### Summary
-DVRPC identifies seven demographic groups to make up the Degree of Disadvantage (DOD) analysis:
+DVRPC identifies seven demographic groups to make up the Degree of Disadvantage (DOD) analysis for 2010:
 
 - Non-Hispanic Minority
 - Carless Households
