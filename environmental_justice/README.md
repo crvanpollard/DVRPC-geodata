@@ -30,8 +30,6 @@ A methodology was created, refined in subsequent years, to identify populations 
 Environmental Justice: 
 Population Groups (2006-2010 American Community Survey 5-Year Estimates) Data Set: 
 
-2006- 2010 American Community Survey 5-Year Estimates 
-
 Carless Households: http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_5YR_B25044 Table: B25044 - TENURE BY VEHICLES AVAILABLE Universe: Occupied housing units Owner Occupied: No vehicle available (line 3) Renter Occupied: No vehicle available (line 10) 
 
 Elderly over 75 year: http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_5YR_B01001 Table: B01001 - SEX BY AGE Universe: Total population Male: 75 to 79 years (line 23), 80 to 84 years (line 24), 85 years and over (line 25) Female: 75 to 79 years (line 47), 80 to 84 years (line 48), 85 years and over (line 49) 
