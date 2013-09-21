@@ -14,14 +14,14 @@ DVRPC identifies eight demographic groups to make up the Degree of Disadvantage 
 
 Census tracts that have higher concentrations of a particular demographic group than the regional average for that population are considered to be at a disadvantage. The total number of demographic groups that are above the regional average concentration in each census tract is that tract's DOD. For example, if a tract has higher than average populations for three of the identified demographic groups, then it has three DODs.
 
-To be used for planning purposes
-
 Please visit the links below from more information regarding DVRPC's Enironmental Justice program
 http://www.dvrpc.org/GetInvolved/TitleVI/
 
 http://www.dvrpc.org/webmaps/EJ2010/
 
 http://www.dvrpc.org/GetInvolved/TitleVI/ejmaps.htm
+
+To be used for planning purposes
 
 ### Description
 2010 Tract-level census data compiled for Environmental Justice reports. In 2001, DVRPC published "...and Justice for All" - DVRPC's Strategy for Fair Treatment and Meaningful Involvement of All People (Publication No. 01022) to identify impacts of disparate funding and services on defined low-income and minority groups. 
