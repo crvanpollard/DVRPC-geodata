@@ -1,6 +1,6 @@
 # DVRPC Environmental Justice (2010)
 
-### Data Development
+### Summary
 To be used for planning purposes
 visit both links below from more information on DVRPC's Enironmental Justice:
 http://www.dvrpc.org/webmaps/EJ2010/
