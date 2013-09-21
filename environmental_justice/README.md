@@ -6,7 +6,7 @@ DVRPC identifies eight demographic groups to make up the Degree of Disadvantage 
 - Non-Hispanic Minority
 - Carless Households
 - Households in Poverty
-- Persons with a Physical Disability
+- Persons with a Physical Disability (data is not available for this recent data set at this time)
 - Female Head of Household with Child
 - Elderly (over 75 years)
 - Hispanic
