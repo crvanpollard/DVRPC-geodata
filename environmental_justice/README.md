@@ -1,5 +1,11 @@
 # DVRPC Environmental Justice (2010)
 
+### Data Development
+To be used for planning purposes
+visit both links below from more information on DVRPC's Enironmental Justice:
+http://www.dvrpc.org/webmaps/EJ2010/
+
+http://www.dvrpc.org/GetInvolved/TitleVI/ejmaps.htm
 
 ### Description
 2010 Tract-level census data compiled for Environmental Justice reports. In 2001, DVRPC published "...and Justice for All" - DVRPC's Strategy for Fair Treatment and Meaningful Involvement of All People (Publication No. 01022) to identify impacts of disparate funding and services on defined low-income and minority groups. 
@@ -27,16 +33,10 @@ Female Head of Household with Child: http://factfinder2.census.gov/faces/tablese
 
 For more information and for methodology, visit DVRPC's website: http://www.dvrpc.org/GetInvolved/TitleVI/
 
-### Data Development
-To be used for planning purposes
-
 ### Key Attribute Fields
-Coming Soon but feel free to visit both links below from more info on EJ:
-Shapefiles do have Full Metatdata filled out!
+Shapefiles do contain Full Metatdata !
 
-http://www.dvrpc.org/webmaps/EJ2010/
 
-http://www.dvrpc.org/GetInvolved/TitleVI/ejmaps.htm
 
 
 ### Credits
