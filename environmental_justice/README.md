@@ -27,8 +27,10 @@ To be used for planning purposes
 2010 Tract-level census data compiled for Environmental Justice reports. In 2001, DVRPC published "...and Justice for All" - DVRPC's Strategy for Fair Treatment and Meaningful Involvement of All People (Publication No. 01022) to identify impacts of disparate funding and services on defined low-income and minority groups. 
 
 A methodology was created, refined in subsequent years, to identify populations that may be adversely affected by transportation planning decisions. 
+
 Environmental Justice: 
 Population Groups (2006-2010 American Community Survey 5-Year Estimates) Data Set: 
+
 2006- 2010 American Community Survey 5-Year Estimates 
 
 Carless Households: http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_5YR_B25044 Table: B25044 - TENURE BY VEHICLES AVAILABLE Universe: Occupied housing units Owner Occupied: No vehicle available (line 3) Renter Occupied: No vehicle available (line 10) 
