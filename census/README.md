@@ -11,36 +11,60 @@ Summary tables compiled with 5-year data are available for all places and have a
 To be used for planning purposes
 
 ### Key Attribute Fields
-`ADB`
 `TotPop`	Total Population
 
 `TotMale`	Male Population
 
-TotFem	Female Population
-AllWhite	Total White
-AllWhitePct	Percent White
-AllBlk	Total Black
-AllBlkPct	Percent Black
-AllAsian	Total Asian
-AllAsianPct	Percent Asian
-HispTot	Total Hispanic
-HispPct	Percent Hispanic
-TotHU	Total housing units
-HUOcc	Occupied housing units
-HUVacantN	Number of vacant housing units
-HUVacantP	Percentage of vacant housing units
-NoVehN	Households with no vehicles available
-NoVehP	Percentage of households with no vehicles available
-OneVehN	Households with 1 vehicle available
-OneVehP	Percentage of households with 1 vehicle available
-TwoVehN	Households with 2 vehicles available
-TwoVehP	Percentage of households with 2 vehicles available
-ThrPlsVehN	Households with 3 or more vehicles available 
-ThrPlsVehP	Percentage of households with 3 or more vehicles available 
-PopOver16	Population 16 years and over
-TotEmpInForce	In labor force
-UnempPct	Percent non in labor force
-TimeToWk	Mean Travel Time to Work
+`TotFem`	Female Population
+
+`AllWhite`	Total White
+
+`AllWhitePct`	Percent White
+
+`AllBlk`	Total Black
+
+`AllBlkPct`	Percent Black
+
+`AllAsian`	Total Asian
+
+`AllAsianPct`	Percent Asian
+
+`HispTot`	Total Hispanic
+
+`HispPct`	Percent Hispanic
+
+`TotHU`	Total housing units
+
+`HUOcc`	Occupied housing units
+
+`HUVacantN`	Number of vacant housing units
+
+`HUVacantP`	Percentage of vacant housing units
+
+`NoVehN`	Households with no vehicles available
+
+`NoVehP`	Percentage of households with no vehicles available
+
+`OneVehN`	Households with 1 vehicle available
+
+`OneVehP`	Percentage of households with 1 vehicle available
+
+`TwoVehN`	Households with 2 vehicles available
+
+`TwoVehP`	Percentage of households with 2 vehicles available
+
+`ThrPlsVehN`	Households with 3 or more vehicles available 
+
+`ThrPlsVehP`	Percentage of households with 3 or more vehicles available 
+
+`PopOver16`	Population 16 years and over
+
+`TotEmpInForce`	In labor force
+
+`UnempPct`	Percent non in labor force
+
+`TimeToWk`	Mean Travel Time to Work
+
 MedHHI	Median household income (dollars)
 PctFamBelPov	Percentage of families and people whose income is the past 12 months is below the poverty level
 TotComm	Total Commuters
