@@ -60,7 +60,13 @@ Shapefiles do contain Full Metatdata !
 
 `TOT_HH` Total Households
 
-`DOD` Degress of Disadvantage Score (0-7)
+`DOD` Degree of Disadvantage Score (0-7)
+
+`NHM_T` Non-Hispanic Minority Total
+
+`NHM_P` Non-Hispanic Minority Percent
+
+`NHMDOD` Non-Hispanic Minority DOD Score
 
 
 
