@@ -52,7 +52,7 @@ Female Head of Household with Child: http://factfinder2.census.gov/faces/tablese
 For more information and for methodology, visit DVRPC's website: http://www.dvrpc.org/GetInvolved/TitleVI/
 
 ### Key Attribute Fields
-Shapefiles do contain Full Metatdata !
+Shapefiles contain Full Metatdata !
 
 `TOT_POP` Total Population
 
@@ -60,13 +60,20 @@ Shapefiles do contain Full Metatdata !
 
 `TOT_HH` Total Households
 
-`DOD` Degree of Disadvantage Score (0-7)
+`DOD` Total Degree of Disadvantage Score (0-7)
 
 `NHM_T` Non-Hispanic Minority Total
 
 `NHM_P` Non-Hispanic Minority Percent
 
-`NHMDOD` Non-Hispanic Minority DOD Score
+`NHMDOD` Non-Hispanic Minority DOD Score (0 = below regional threshold, 1 = regional threshold)
+
+`CH_T` Carless Households Total
+
+`CH_P` Carless Households Percent 
+
+`CHDOD` Carless Households DOD Score (0 = below regional threshold, 1 = regional threshold)
+
 
 
 
