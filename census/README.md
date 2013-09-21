@@ -65,30 +65,51 @@ To be used for planning purposes
 
 `TimeToWk`	Mean Travel Time to Work
 
-MedHHI	Median household income (dollars)
-PctFamBelPov	Percentage of families and people whose income is the past 12 months is below the poverty level
-TotComm	Total Commuters
-Auto	Commute to work method: Car, truck, or van
-DrvAlone	Commute to work method: Drove alone
-Carpool	Commute to work method: Carpooled
-Carpl2	Commute to work method: In 2-person carpool
-Carpl3	Commute to work method: In 3-person carpool
-Carpl4	Commute to work method: In 4-person carpool
-Carpl5or6	Commute to work method: In 5- or 6-person carpool
-Carpl7pls	Commute to work method: In 7-or-more-person carpool
-PublTran	Commute to work method: Public transportation (excluding taxicab)
-BusTroll	Commute to work method: Bus or trolley bus
-StCarTroll	Commute to work method: Streetcar or trolley car (carro publico in Puerto Rico)
-SubEl	Commute to work method: Subway or elevated
-RR	Commute to work method: Railroad
-Ferry	Commute to work method: Ferryboat
-Taxi	Commute to work method: Taxicab
-Motorcyc	Commute to work method: Motorcycle
-Bike	Commute to work method: Bicycle
-Walk	Commute to work method: Walked
-Other	Commute to work method: Other means
-Telecomm	Commute to work method: Worked at home
+'MedHHI'	Median household income (dollars)
 
+'PctFamBelPov'	Percentage of families and people whose income is the past 12 months is below the poverty level
+
+'TotComm'	Total Commuters
+
+'Auto'	Commute to work method: Car, truck, or van
+
+'DrvAlone'	Commute to work method: Drove alone
+
+'Carpool'	Commute to work method: Carpooled
+
+'Carpl2'	Commute to work method: In 2-person carpool
+
+'Carpl3'	Commute to work method: In 3-person carpool
+
+'Carpl4'	Commute to work method: In 4-person carpool
+
+'Carpl5or6'	Commute to work method: In 5- or 6-person carpool
+
+'Carpl7pls'	Commute to work method: In 7-or-more-person carpool
+
+'PublTran'	Commute to work method: Public transportation (excluding taxicab)
+
+`BusTroll`	Commute to work method: Bus or trolley bus
+
+`StCarTroll`	Commute to work method: Streetcar or trolley car (carro publico in Puerto Rico)
+
+`SubEl`	Commute to work method: Subway or elevated
+
+`RR`	Commute to work method: Railroad
+
+`Ferry`	Commute to work method: Ferryboat
+
+`Taxi`	Commute to work method: Taxicab
+
+`Motorcyc`	Commute to work method: Motorcycle
+
+`Bike`	Commute to work method: Bicycle
+
+`Walk`	Commute to work method: Walked
+
+`Other`	Commute to work method: Other means
+
+`Telecomm`	Commute to work method: Worked at home
 
 ### Credits
 DVRPC, U.S. Census Bureau
