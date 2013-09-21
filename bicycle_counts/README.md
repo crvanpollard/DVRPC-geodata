@@ -38,7 +38,7 @@ To be used for planning purposes
 
 `FC` Functional Class : roadway functional classification 
 
-#### Attribute Lookup
+#### FC Attribute Lookup
 
 01 RURAL PRINCIPLE ARTERIAL INTERSTATE
 
