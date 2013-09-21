@@ -35,7 +35,7 @@ Population Groups (2006-2010 American Community Survey 5-Year Estimates) Data Se
 
 Carless Households: http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_5YR_B25044 Table: B25044 - TENURE BY VEHICLES AVAILABLE Universe: Occupied housing units Owner Occupied: No vehicle available (line 3) Renter Occupied: No vehicle available (line 10) 
 
-Elderly over 75 year http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_5YR_B01001 Table: B01001 - SEX BY AGE Universe: Total population Male: 75 to 79 years (line 23), 80 to 84 years (line 24), 85 years and over (line 25) Female: 75 to 79 years (line 47), 80 to 84 years (line 48), 85 years and over (line 49) 
+Elderly over 75 year: http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_5YR_B01001 Table: B01001 - SEX BY AGE Universe: Total population Male: 75 to 79 years (line 23), 80 to 84 years (line 24), 85 years and over (line 25) Female: 75 to 79 years (line 47), 80 to 84 years (line 48), 85 years and over (line 49) 
 
 Limited English Proficiency: http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_5YR_B16004 Table: B16004 - AGE BY LANGUAGE SPOKEN AT HOME BY ABILITY TO SPEAK ENGLISH FOR THE POPULATION 5 YEARS AND OVER Universe: Population 5 years and over Speak English "not well" (lines: 7, 12, 17, 22, 29, 34, 39, 44, 51, 56, 61, 66 ) Speak English "not at all" (lines: 8, 13, 18, 23, 30, 35, 40, 45, 52, 57, 62, 67) 
 
@@ -66,16 +66,47 @@ Shapefiles contain Full Metatdata !
 
 `NHM_P` Non-Hispanic Minority Percent
 
-`NHMDOD` Non-Hispanic Minority DOD Score (0 = below regional threshold, 1 = regional threshold)
+`NHMDOD` Non-Hispanic Minority DOD Score (0 = below regional threshold, 1 = above regional threshold)
 
 `CH_T` Carless Households Total
 
 `CH_P` Carless Households Percent 
 
-`CHDOD` Carless Households DOD Score (0 = below regional threshold, 1 = regional threshold)
+`CHDOD` Carless Households DOD Score (0 = below regional threshold, 1 = above regional threshold)
 
+`POV_T` Households in Poverty Total
 
+`POV_P` Households in Poverty Percent
 
+`POPDOD` Households in Poverty DOD Score (0 = below regional threshold, 1 = above regional threshold)
+
+`FHHC_T` Female Head of Household with Child Total
+
+`FHHC_P` Female Head of Household with Child Percent
+
+`FHHCDOD` Female Head of Household with Child DOD Score (0 = below regional threshold, 1 = above regional threshold)
+
+`ELD75_T` Elderly over 75 year Total
+
+`ELD75_P` Elderly over 75 year Percent
+
+`ELD75DOD` Elderly over 75 year DOD Score (0 = below regional threshold, 1 = above regional threshold)
+
+`HIS_T` Hispanic Total
+
+`HIS_P` Hispanic Percent
+
+`HISDOD` Hispanic DOD Score (0 = below regional threshold, 1 = above regional threshold)
+
+`LEP_T` Limited English Proficiency Total
+
+`LEP_P` Limited English Proficiency Percent
+
+`LEPDOD` Limited English Proficiency DOD Score (0 = below regional threshold, 1 = above regional threshold)
+
+`GEOID_10` unique 10 digit identifier
+
+`PROFILE` URL for Census Tract ACS Demographic Profile
 
 
 ### Credits
