@@ -46,11 +46,17 @@ Acreage for TAZ's is total LAND area.
 ### Key Attribute Fields
 
 `TAZ_2010` 2010 TAZ Boundary ID
+
 `Pop10` Total Population
+
 `Emp10` Total Employment based off NETS, 2010 , adjusted by DVRPC
+
 `HHNoVeh` Zero Car Households (source: DVRPC Modeling Department 2010-2040 estimates by TAZ)
+
 `TranSc10` DVRPC Transit Score 
+
 `TranCat10` Transit Score Category
+
 
 ### Credits
 DVRPC, U.S. Census Bureau, 2013.
