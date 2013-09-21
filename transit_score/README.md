@@ -3,7 +3,8 @@
 ### Summary
 To be used for planning purposes.
 
-http://www.dvrpc.org/asp/pubs/publicationabstract.asp?pub_id=07005
+For a detailed report on DVRPC Transit Score please visit:
+ http://www.dvrpc.org/asp/pubs/publicationabstract.asp?pub_id=07005
 
 ### Description
 This two-phase project defines a method to assess the appropriateness of various modes and intensities of transit service throughout the DVRPC region. Phase I consisted of a statistical evaluation and refinement of New Jersey Transit's existing transit score method. This included a regression analysis to test the relationships between existing variables, additional variables, and transit mode share for the region, the State of New Jersey, and the combined area of the two. Based on the results of this evaluation, a refined transit score equation was derived for congruent use in both New Jersey and Pennsylvania. 
