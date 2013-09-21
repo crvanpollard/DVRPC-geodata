@@ -2,7 +2,10 @@
 
 ### Summary
 To be used for planning purposes
-visit both links below from more information on DVRPC's Enironmental Justice:
+
+Please visit the links below from more information regarding DVRPC's Enironmental Justice program
+http://www.dvrpc.org/GetInvolved/TitleVI/
+
 http://www.dvrpc.org/webmaps/EJ2010/
 
 http://www.dvrpc.org/GetInvolved/TitleVI/ejmaps.htm
