@@ -1,6 +1,18 @@
 # DVRPC Environmental Justice (2010)
 
 ### Summary
+DVRPC identifies eight demographic groups to make up the Degree of Disadvantage (DOD) analysis:
+
+Non-Hispanic Minority
+Carless Households
+Households in Poverty
+Persons with a Physical Disability
+Female Head of Household with Child
+Elderly (over 75 years)
+Hispanic
+Limited English Proficiency
+
+   Census tracts that have higher concentrations of a particular demographic group than the regional average for that population are considered to be at a disadvantage. The total number of demographic groups that are above the regional average concentration in each census tract is that tract's DOD. For example, if a tract has higher than average populations for three of the identified demographic groups, then it has three DODs.
 To be used for planning purposes
 
 Please visit the links below from more information regarding DVRPC's Enironmental Justice program
@@ -38,6 +50,14 @@ For more information and for methodology, visit DVRPC's website: http://www.dvrp
 
 ### Key Attribute Fields
 Shapefiles do contain Full Metatdata !
+
+`TOT_POP` Total Population
+
+`TOT_POP5yr` Total Population: 5 Years and older
+
+`TOT_HH` Total Households
+
+`DOD` Degress of Disadvantage Score (0-7)
 
 
 
