@@ -35,41 +35,15 @@ To be used for planning purposes
 `TOLMT` To Limit
 
 `TYPE` Type of DVRPC count taken
+  * Bicycle 1 -  
+  * Bicycle 2 -
 
-`FC` Functional Class : roadway functional classification 
+`CO_NAME` County Name 
 
-#### FC Attribute Lookup
-
-01 RURAL PRINCIPLE ARTERIAL INTERSTATE
-
-02 RURAL PRINCIPLE ARTERIAL OTHER
-
-06 RURAL MINOR ARTERIAL
-
-07 RURAL MAJOR COLLECTOR
-
-08 RURAL MINOR COLLECTOR
-
-09 RURAL LOCAL
-
-11 URBAN PRINCIPLE ARTERIAL INTERSTATE
-
-12 URBAN PRINCIPLE ARTERIAL OTHER FREEWAYS
-
-14 URBAN OTHER PRINCIPLE ARTERIAL
-
-16 URBAN MINOR ARTERIAL
-
-17 URBAN COLLECTOR
-
-19 URBAN LOCAL
-
-99 RAMP
-
-
+`MUN_NAME` Municipality Name
 
 ### Credits
-DVRPC, 2013.
+DVRPC, 2015.
 
 ### Use Limitations
 The Delaware Valley Regional Planning Commission (DVRPC) makes no warranty, representation, or guarantee as to the content, sequence, accuracy, timeliness, or completeness of any of the spatial data or database information provided herein. DVRPC and partner state, local, and other agencies shall assume no liability for errors, omissions, or inaccuracies in the information provided regardless of how caused; or any decision made or action taken or not taken by any person relying on any information or data furnished within. 
