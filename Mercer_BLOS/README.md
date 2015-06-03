@@ -1,4 +1,4 @@
-# Bicycle Counts
+# Mercer County BLOS (work in progress 6-3-2015)
 
 ### Summary
 Bicycle Count information collected and maintained by DVRPC 
