@@ -1,15 +1,13 @@
 # DVRPC-geodata
 
-A collection of geospatial data sets from the Delaware Valley Regional Planning Commision (DVRPC).
+A collection of geospatial datasets for the Delaware Valley Regional Planning Commision (DVRPC) 9-County region.
 
-Additional regional data sets in shapefile format can be found here: http://www.dvrpc.org/Mapping/data.htm.
+Additional regional datasets in shapefile format can be found here: http://www.dvrpc.org/Mapping/data.htm.
 
 *There are plenty of tools that can help convert shapefiles to other file formats. A few worth bookmarking: Org2org - http://ogre.adc4gis.com/  and Shape Escape - http://shpescape.com/.
 
 ## Data Source
-
 Delaware Valley Regional Planning Commision (DVRPC) - http://www.dvrpc.org.
-
 
 ## Use Limitations
 The Delaware Valley Regional Planning Commission (DVRPC) makes no warranty, representation, or guarantee as to the content, sequence, accuracy, timeliness, or completeness of any of the spatial data or database information provided herein.
