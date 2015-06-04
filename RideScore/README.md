@@ -1,44 +1,18 @@
-# Bicycle Counts
+# RideScore
 
 ### Summary
-Bicycle Count information collected and maintained by DVRPC 
+ RideScore is a dataset that assesses the physical and demographic characteristics around transit stations that relate to how supportive of bicycling the area is, or could be. The dataset focuses on commuter rail stations outside of Center City Philadelphia as well as trolley and subway terminals where having direct, safe, and nonmotorized access between transit stations and a person's origin and/or destination is a challenge. 
 
-For more information please visit: http://www.dvrpc.org/Traffic/.
+For more information please visit: http://www.dvrpc.org/webmaps/ridescore/
+and
+http://www.dvrpc.org/TransitBikePed/.
 
 ### Data Development
 
 To be used for planning purposes
 
 ### Key Attribute Fields
-`ADB` Annual Daily Bicycle : represents an estimate of all bicycle traffic during a 24 hour period at the location indicated for the year in which it was collected. 
 
-`RECORDNUM` Record Number : unique record ID for each count
-
-`SETDATE` SET Date : Date that the count was set
-
-`SETYEAR` Set Year : Year that the count was taken
-
-`REPORT` URL for detailed hourly report
-
-`MCD` Municipality ten digit GEOID 
-
-`ROUTE` Designated Route number for where the count was taken
-
-`ROAD` Road name for where the count was taken
-
-`CNTDIR` Count Direction
-
-`TRAFDIR` Traffic Direction
-
-`FROMLMT` From Limit 
-
-`TOLMT` To Limit
-
-`TYPE` Type of DVRPC count taken
-
-`CO_NAME` County Name 
-
-`MUN_NAME` Municipality Name
 
 ### Credits
 DVRPC, 2015.
