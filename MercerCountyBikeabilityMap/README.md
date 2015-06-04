@@ -1,9 +1,11 @@
-# Mercer County BLOS (work in progress 6-3-2015)
+# Mercer County Bicycle Level of Service (BLOS)
 
 ### Summary
 Bikeability Scores for Mercer County roadways using the Bicycle Level of Service (BLOS) model, which generates a BLOS grade for any roadway based on the above factors (and others).
 
-For more information please visit: http://www.dvrpc.org/Transportation/BicyclePedestrian/bicycle.htm.
+For more information please visit: http://www.dvrpc.org/asp/bikemercer/
+and
+http://www.dvrpc.org/Transportation/BicyclePedestrian/bicycle.htm.
 
 ### Data Development
 
@@ -60,17 +62,17 @@ For details on the BLOS model and our method of analysis for the scores you see 
 
 #### Bikescore Lookup
 
-Excellent - These major road segments are generally comfortable to bike along (BLOS grades A and B)
+`Excellent`  These major road segments are generally comfortable to bike along (BLOS grades A and B)
 
-Fair - These major road segments may present some issues, depending on your experience level (BLOS grades C and D) 
+`Fair`  These major road segments may present some issues, depending on your experience level (BLOS grades C and D) 
 
-Unfavorable - These major road segments are generally not comfortable to bike along (BLOS grades E and F) 
+`Unfavorable`  These major road segments are generally not comfortable to bike along (BLOS grades E and F) 
 
-Unbikeable - Roadways on which bicycles cannot travel (limited access highways, highway access ramps and other selected “hazardous” routes)
+`Unbikeable`  Roadways on which bicycles cannot travel (limited access highways, highway access ramps and other selected “hazardous” routes)
 
-Minor_Fav - These minor road segments are generally comfortable to bike along (BLOS grades A, B, or C) 
+`Minor_Fav`  These minor road segments are generally comfortable to bike along (BLOS grades A, B, or C) 
 
-Minor_UnFav - These road segments are generally not comfortable to bike along (BLOS grades D, E, or F)
+`Minor_UnFav`  These road segments are generally not comfortable to bike along (BLOS grades D, E, or F)
 
 #### FC Attribute Lookup
 
