@@ -18,11 +18,11 @@ To be used for planning purposes
 
 `SETYEAR` Set Year : Year that the count was taken
 
-`BIKEFAT` Bicycle Season Factor
-
 `REPORT` URL for detailed hourly report
 
 `MCD` Municipality ten digit GEOID 
+
+`ROUTE` Designated Route number for where the count was taken
 
 `ROAD` Road name for where the count was taken
 
@@ -35,8 +35,6 @@ To be used for planning purposes
 `TOLMT` To Limit
 
 `TYPE` Type of DVRPC count taken
-  * Bicycle 1 -  
-  * Bicycle 2 -
 
 `CO_NAME` County Name 
 
@@ -47,5 +45,3 @@ DVRPC, 2015.
 
 ### Use Limitations
 The Delaware Valley Regional Planning Commission (DVRPC) makes no warranty, representation, or guarantee as to the content, sequence, accuracy, timeliness, or completeness of any of the spatial data or database information provided herein. DVRPC and partner state, local, and other agencies shall assume no liability for errors, omissions, or inaccuracies in the information provided regardless of how caused; or any decision made or action taken or not taken by any person relying on any information or data furnished within. 
-
-
