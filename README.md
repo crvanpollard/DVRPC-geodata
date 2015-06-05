@@ -4,7 +4,12 @@ A collection of geospatial datasets for the Delaware Valley Regional Planning Co
 
 Additional regional datasets in shapefile format can be found here: http://www.dvrpc.org/Mapping/data.htm.
 
-*There are plenty of tools that can help convert shapefiles to other file formats. A few worth bookmarking: Org2org - http://ogre.adc4gis.com/  and Shape Escape - http://shpescape.com/.
+DVRPC Interactive Maps: http://www.dvrpc.org/Mapping/webmaps.htm
+
+DVRPC ArcGIS Server REST Services Directory: http://gis.dvrpc.org/ArcGIS/rest/services
+*Use with Caution! - We are in the process of migrating our ArcGIS Server in the next month, thanks the GIS Development Team*
+
+ *There are plenty of tools that can help convert shapefiles to other file formats. A few worth bookmarking: Org2org - http://ogre.adc4gis.com/  and Shape Escape - http://shpescape.com/.
 
 ## Data Source
 Delaware Valley Regional Planning Commision (DVRPC) - http://www.dvrpc.org.
