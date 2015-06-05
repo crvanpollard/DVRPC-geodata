@@ -1,15 +1,14 @@
-# Mercer County Bicycle Level of Service (BLOS)
+# Mercer County Bikeability Map
 
 ### Summary
-Bikeability Scores for Mercer County roadways using the Bicycle Level of Service (BLOS) model, which generates a BLOS grade for any roadway based on the above factors (and others).
-
+This dataset is an effort to approximate how comfortable every street in Mercer County, New Jersey, is to bike on, for the average bicyclist. It was created by first calculating Bicycle Level of Service (BLOS) ratings for every road segment in the county using GIS data, and then my “crowdsourcing” corrections to these ratings via a webmap interface. The final ratings are simplified into three “bikeability” categories: Excellent (LOS A+B), Fair (LOS C+D), and Unfavorable (LOS E+F).
 For more information please visit: http://www.dvrpc.org/asp/bikemercer/
 and
 http://www.dvrpc.org/Transportation/BicyclePedestrian/bicycle.htm.
 
 ### Data Development
 
-For details on the BLOS model and our method of analysis for the scores you see on the Mercer County Bikeability Map, please visit: http://www.dvrpc.org/asp/bikemercer/pdf/process.pdf .
+For details on the BLOS model and our method of analysis for the scores you see on the Mercer County Bikeability Map, please view: http://www.dvrpc.org/asp/bikemercer/pdf/process.pdf .
 
 ### Key Attribute Fields (Source)
 `SRI`  Standard Route Identifier (NJDOT) –unique ID for each roadway
@@ -34,31 +33,31 @@ For details on the BLOS model and our method of analysis for the scores you see 
 
 `SPEED`  Roadway speed (NJDOT)
 
-`AADT_AVG` Annual Average Daily Traffic
+`AADT_AVG` Annual Average Daily Traffic (NJDOT/DVRPC)
 
-`AREA_TYPE` 
+`AREA_TYPE` Area Location Type (NJDOT)
 
 `FUNCCLS` Functional classification (NJDOT) codes don’t match the new ones
 
-`SEG_MILES` Length of segment in miles
+`SEG_MILES` Length of segment in miles (DVRPC)
 
-`OSP_PCT` On-street parking percentage
+`OSP_PCT` On-street parking percentage (DVRPC)
 
-`STATUS`
+`STATUS` Unknow
 
 `HV` Percent of heavy vehicles in traffic mix (Populated by functional class using DVRPC average regional values for “heavy trucks” plus buses. Data was provided by DVRPC modeling staff, and is derived from traffic counts and travel surveys over time). 
 
-`WT` Combined width of outside lane and shoulder
+`WT` Combined width of outside lane and shoulder (NJDOT)
 
-`SCORE`
+`SCORE` Numerical BLOS Score (DVRPC)
 
-`BLOS`
+`BLOS` corresponding letter grade (A-F) based on a variety of roadway design and traffic characteristics (DVRPC)
 
-`BIKESCORE` Final 
+`BIKESCORE` Final BLOS rating based off letter grade, roadway type, and additional user input (DVRPC)
 
-`ROADTYPE` Roadway designation for cartographic purposes
+`ROADTYPE` Roadway designation for cartographic purposes (DVRPC)
 
-`EDITS`
+`EDITS` DVRPC notes on editing/modifing calculated BLOS (DVRPC)
 
 #### Bikescore Lookup
 
