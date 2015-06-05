@@ -5,6 +5,8 @@ Pedestrian Count information collected and maintained by DVRPC
 
 For more information please visit: http://www.dvrpc.org/Traffic/.
 
+Interactive Map with access to detailed info: http://www.dvrpc.org/webmaps/pedbikecounts/
+
 ### Data Development
 
 To be used for planning purposes
