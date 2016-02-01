@@ -5,7 +5,7 @@ Traffic Count information collected and maintained by DVRPC
 
 Interactive Map with access to detailed info: http://www.dvrpc.org/webmaps/trafficcounts/
 
-ArcGIS Rest API: http://gis.dvrpc.org/ArcGIS/rest/services/DVRPC_Traffic_Counts/MapServer
+ArcGIS Rest API: http://arcgis.dvrpc.org/arcgis/rest/services/Transportation/TrafficCounts/MapServer
 
 For more information on Traffic Counts please visit: http://www.dvrpc.org/Traffic/.
 

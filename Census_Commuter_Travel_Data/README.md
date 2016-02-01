@@ -1,5 +1,8 @@
 # Commutter Travel Data (MCD and Tract Level)
 
+### Updates
+If you are looking for more recent Census Bureau 2009-2013 ACS dataset for the municipalities and tracts in the DVRPC Region please check out our ArcGIS Server Demographic Map Services at: http://arcgis.dvrpc.org/arcgis/rest/services/Demographics
+
 ### Description
 Selected data from the Census Bureau's 2007-2011 ACS dataset for census tracts in the DVRPC Region. 
 American Community Survey (ACS) provides detailed demographic, social, economic, commuting and housing statistics based on continuous survey data collection. 
