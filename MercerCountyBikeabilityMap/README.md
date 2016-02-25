@@ -2,7 +2,7 @@
 
 ### Summary
 This dataset is an effort to approximate how comfortable every street in Mercer County, New Jersey, is to bike on, for the average bicyclist. It was created by first calculating Bicycle Level of Service (BLOS) ratings for every road segment in the county using GIS data, and then my “crowdsourcing” corrections to these ratings via a webmap interface. The final ratings are simplified into three “bikeability” categories: Excellent (LOS A+B), Fair (LOS C+D), and Unfavorable (LOS E+F).
-For more information please visit: http://www.dvrpc.org/asp/bikemercer/
+For more information please visit: http://www.dvrpc.org/webmaps/MercerBLOS/
 and
 http://www.dvrpc.org/Transportation/BicyclePedestrian/bicycle.htm.
 
