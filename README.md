@@ -2,9 +2,9 @@
 
 A collection of geospatial datasets for the Delaware Valley Regional Planning Commision (DVRPC) 9-County region.
 
-Additional regional datasets in shapefile format can be found here: http://www.dvrpc.org/Mapping/data.htm.
+Additional regional datasets in shapefile format can be found here: http://www.dvrpc.org/Mapping/Data/.
 
-DVRPC Interactive Maps: http://www.dvrpc.org/Mapping/webmaps.htm
+DVRPC Interactive Maps: http://www.dvrpc.org/Mapping/Webmaps/
 
 DVRPC ArcGIS Server REST Services Directory: http://arcgis.dvrpc.org/arcgis/rest/services
 *Use with Caution! - some of these datasets may change URL's or locations, thanks the GIS Development Team*
