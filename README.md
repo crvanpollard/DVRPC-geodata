@@ -1,6 +1,6 @@
 # DVRPC-geodata
 
-** Warning** This is not the offical DVRPC GIS Data Portal - For update and additional datasets: http://dvrpc.dvrpcgis.opendata.arcgis.com
+** Warning** This is not the offical DVRPC GIS Data Portal - For update and additional datasets: http://dvrpc-dvrpcgis.opendata.arcgis.com
 
 A collection of selected geospatial datasets for the Delaware Valley Regional Planning Commision (DVRPC) 9-County region.
 
